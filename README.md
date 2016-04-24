@@ -5,7 +5,7 @@ organizado por *Darwin Eventur*, e impartido por D. Renato Ramírez y D. Pablo
 Hinojosa en la Facultad de Ciencias de la Universidad de Granada, en Enero de 
 2016.
 
-[Página web](http://vikman90.github.io/ejercicio_final)
+[Página web](http://vikman90.github.io/piano-latex)
 
 ## Entrega final
 
@@ -25,7 +25,7 @@ Wikipedia en el que hemos incluido las características requeridas.
 
 El código fuente del documento se encuetra en la rama *master* de este 
 repositorio. La versión para entregar está marcada con la [etiqueta v1.0]
-(https://github.com/vikman90/ejercicio_final/releases).
+(https://github.com/vikman90/piano-latex/releases).
 
 ## Licencia
 
